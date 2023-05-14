@@ -1,4 +1,6 @@
-This is my MATLAB/Simulink simulation models of doubly-fed induction generator control, built following the Youtube tutorial by Dr. Gonzalo Abad Biain, with a few modifications. Many thanks to Dr. Gonzalo Abad Biain for creating this great tutorial series. 
+This is my MATLAB/Simulink simulation models of doubly-fed induction generator control, built following the Youtube tutorial by Dr. Gonzalo Abad, with a few modifications. Many thanks to Dr. Gonzalo Abad for creating this great tutorial series. 
+
+Sorry that some comments are in Chinese. 
 
 In the MathCAD files (*.xmcd), I tried to derive the dynamic models of DFIG. 
 
