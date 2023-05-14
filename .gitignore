@@ -1,0 +1,5 @@
+# Remove Simulink accelerator related 
+
+*.slxc
+
+slprj/
